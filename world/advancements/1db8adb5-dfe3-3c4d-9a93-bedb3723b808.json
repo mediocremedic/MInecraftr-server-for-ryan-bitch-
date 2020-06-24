@@ -1,0 +1,63 @@
+{
+  "main:main/double_shulkers": {
+    "criteria": {
+      "tick": "2020-05-07 01:39:04 -0400"
+    },
+    "done": true
+  },
+  "as:enable": {
+    "criteria": {
+      "tick": "2020-05-07 01:39:04 -0400"
+    },
+    "done": true
+  },
+  "main:main/as": {
+    "criteria": {
+      "tick": "2020-05-07 01:39:04 -0400"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-05-07 01:39:04 -0400"
+    },
+    "done": true
+  },
+  "main:main/anti_ghast": {
+    "criteria": {
+      "tick": "2020-05-07 01:39:04 -0400"
+    },
+    "done": true
+  },
+  "main:main/dp": {
+    "criteria": {
+      "tick": "2020-05-07 01:39:04 -0400"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-05-07 01:39:04 -0400"
+    },
+    "done": true
+  },
+  "main:main/player_head_drops": {
+    "criteria": {
+      "tick": "2020-05-07 01:39:04 -0400"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-05-07 01:39:04 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2020-05-07 01:39:04 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2529
+}
